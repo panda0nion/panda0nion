@@ -11,9 +11,8 @@ I’m a DevOps Leader, Cloud Program Manager, and inclusive tech advocate with o
 - 🧠 Inclusive Innovation & Accessibility in Tech
 
 ## 💼 Professional Experience
-- **Wawanesa Insurance** – Led DevOps transformation and cloud-first initiatives.
 - **RBC Royal Bank** – Supported shared services, big data infrastructure, and emerging technologies in Architecture and Engineering.
-- **Special Olympics / Super Ability Crew** – Volunteer coach and community builder using tech and art to create accessible learning and wellness programs.
+- **Special Olympics / Project Autism Canada** – Volunteer coach and community builder using tech and art to create accessible learning and wellness programs.
 
 ## 🚀 Featured Projects
 - 🧭 **Resilient SRE Dashboard** – Real-time, cross-platform system health dashboard using Grafana, Prometheus, and Splunk integration. [Link to repo]
@@ -28,8 +27,8 @@ I’m a DevOps Leader, Cloud Program Manager, and inclusive tech advocate with o
 ## 🤝 Let’s Connect
 I’m currently exploring opportunities in **Site Reliability**, **Cloud Program Management**, and **Inclusive Tech Leadership**.
 
-- ✉️ [patrick.lee@cogeco.net](mailto:patrick.lee@cogeco.net)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/patricklee-devops)
+- ✉️ [admin@neonacho.net](mailto:admin@neonacho.net)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/fixguy)
 - 💼 [Portfolio](https://yourportfolio.example.com) *(optional)*
 
 ---
