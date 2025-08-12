@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Patrick — Building Tech that Works *for Everyone*
 
-I love building technology with a **people-first** approach. For me, it’s about more than the code — it’s about finding creative, innovative ways to connect people, solve real problems, and make life a little easier (and maybe even more fun 😄). 
+I love building technology with a **people-first** approach. For me, it’s about finding creative, innovative ways to connect people, solve real problems, and make life a little easier (and maybe even more fun 😄). 
 
 Whether it’s **inclusive apps**, **AI-powered home automation**, or **scalable cloud solutions**, my goal is the same: create tools and experiences that bring people together and make tech feel like it was built *just for them*.
 
