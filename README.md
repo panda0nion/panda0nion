@@ -1,10 +1,8 @@
-## 👋 Hey there — great to meet you!
-Building reliable systems by day and inclusive tech by night.
-DevOps & SRE manager learning data science to power AI assistants for our community.
+## 👋 Hey there, it's so nice to meet you!
 
-Co-founder of Project Autism and Special Olympics coach in Toronto.
+I love building technology with a **people-first** approach. For me, it’s about more than the code — it’s about finding creative, innovative ways to connect people, solve real problems, and make life a little easier (and maybe even more fun 😄). 
 
-I believe in a people-first approach to tech — from inclusive apps to AI-powered home automation to scalable cloud solutions — always creating tools that connect people, solve real problems, and make life a little brighter (and maybe even more fun 😄).
+I believe in a people-first approach to tech — from **inclusive apps to AI-powered home automation to scalable cloud solutions** — always creating tools that connect people, solve real problems, and make life a little brighter (and maybe even more fun 😄).
 
 ---
 
