@@ -26,7 +26,7 @@ I’m a **DevOps Leader**, **Cloud Program Manager**, and **Inclusive Tech Advoc
 
 ## 📊 GitHub Stats
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=panda0nion&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=panda0nion&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=panda0nion&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panda0nion&layout=compact&theme=tokyonight)
 
 ---
