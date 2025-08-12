@@ -1,6 +1,10 @@
-# 👋 Hi there, nice to e-meet you! :) 
+# 👋 Hey there, I’m Patrick Lee — Building Tech that Works *for Everyone*
 
-I’m a **DevOps Leader**, **Cloud Program Manager**, and **Inclusive Tech Advocate** with over a decade of experience transforming infrastructure, streamlining deployment pipelines, and leading high-impact engineering teams. I’m passionate about building resilient, observable systems that empower organizations *and* people alike.
+🚀 **DevOps Leader** | ☁️ **Cloud Program Manager** | 🌍 **Inclusive Tech Advocate**  
+With over a decade in **transforming infrastructure**, **optimizing CI/CD pipelines**, and **leading high-impact engineering teams**, I’m on a mission to make technology **reliable, observable, and accessible** for *all*.
+
+I don’t just ship code — I build ecosystems.  
+From **cloud migrations** to **AI-powered home automation**, to **inclusive gaming experiences** — my projects aim to *empower organizations and individuals alike*.
 
 ---
 
