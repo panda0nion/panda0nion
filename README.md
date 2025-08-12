@@ -1,4 +1,4 @@
-👋 Hey there — great to meet you!
+## 👋 Hey there — great to meet you!
 Building reliable systems by day and inclusive tech by night.
 DevOps & SRE manager learning data science to power AI assistants for our community.
 
