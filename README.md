@@ -1,4 +1,4 @@
-# 👋 Hey there, it's nice to meet you! :)
+## 👋 Hey there, it's nice to meet you! :)
 
 I love building technology with a **people-first** approach. For me, it’s about finding creative, innovative ways to connect people, solve real problems, and make life a little easier (and maybe even more fun 😄). 
 
