@@ -1,36 +1,46 @@
-# 👋 Hi, I’m Patrick Lee
+# 👋 Hi, I’m Patrick Lee  
 
-I’m a DevOps Leader, Cloud Program Manager, and inclusive tech advocate with over a decade of experience transforming infrastructure, streamlining deployment pipelines, and leading high-impact engineering teams. I’m passionate about building resilient, observable systems that empower organizations and people alike.
+I’m a **DevOps Leader**, **Cloud Program Manager**, and **Inclusive Tech Advocate** with over a decade of experience transforming infrastructure, streamlining deployment pipelines, and leading high-impact engineering teams. I’m passionate about building resilient, observable systems that empower organizations *and* people alike.
 
-## 💻 What I Do
-- 🌩️ Cloud Strategy & Migrations (AWS, GCP)
-- 🔄 CI/CD Pipelines | GitHub Actions | Jenkins | GitLab
-- 🛠️ Infrastructure as Code (Terraform, CloudFormation)
-- 📊 Observability & Monitoring (Splunk, Datadog, Prometheus)
-- 🐳 Containerization (Docker, Kubernetes)
-- 🧠 Inclusive Innovation & Accessibility in Tech
+---
 
-## 💼 Professional Experience
-- **RBC Royal Bank** – Supported shared services, big data infrastructure, and emerging technologies in Architecture and Engineering.
-- **Special Olympics / Project Autism Canada** – Volunteer coach and community builder using tech and art to create accessible learning and wellness programs.
+## 🚀 Tech Stack & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 🚀 Featured Projects
-- 🧭 **Resilient SRE Dashboard** – Real-time, cross-platform system health dashboard using Grafana, Prometheus, and Splunk integration. [Link to repo]
-- 🧪 **CI/CD Pipeline Lab** – Sandbox repo demonstrating multi-environment deployments using GitHub Actions and Terraform. [Link to repo]
-- 🌱 **Accessible Tech Toolkit** – A collection of scripts, configs, and templates designed to support neurodiverse teams in tech. [Link to repo]
+---
+
+## 🛠 Recent Projects
+
+| Project | Description | Tech Stack |
+| ------- | ----------- | ---------- |
+| [🎮 Tap Tap Friend](https://github.com/yourusername/tap-tap-friend) | Accessible reaction game for neurodiverse players. | React Native, Expo |
+| [🏠 Home Assistant / Jelly AI](https://github.com/yourusername/home-assistant-jelly-ai) | AI-powered personal smart home assistant. | Python, Node.js, Home Assistant |
+| [🌐 Neonacho / Next.js Website](https://github.com/yourusername/neonacho-nextjs) | Modern, accessible web platform. | Next.js, TailwindCSS |
+
+---
+
+## 📊 GitHub Stats
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=panda0nion&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=panda0nion&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panda0nion&layout=compact&theme=tokyonight)
+
+---
 
 ## 🏆 Achievements
 - 🥇 2023 Special Olympics Coach Leadership Award
 - 📜 AWS Certified Solutions Architect – Associate
 - 🌍 Speaker at Global Accessibility Awareness Day (GAAD)
 
-## 🤝 Let’s Connect
-I’m currently exploring opportunities in **Site Reliability**, **Cloud Program Management**, and **Inclusive Tech Leadership**.
-
-- ✉️ [admin@neonacho.net](mailto:admin@neonacho.net)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/fixguy)
-- 💼 [Portfolio](https://yourportfolio.example.com) *(optional)*
-
 ---
 
-Thanks for visiting my profile — feel free to explore my pinned projects!
+## 🤝 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fixguy)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:admin@neonacho.net)
+
+---
+⭐ *Thanks for visiting — let’s build something awesome together!*
